@@ -1,3 +1,5 @@
+//Comentariile adăugate sunt pentru mine, pentru momentul când voi reveni pentru a vedea un exemplu de cum am folosit anumite metode/funcții.
+
 // Selectez elementul ul#categories
 const categoriesList = document.getElementById("categories");
 
